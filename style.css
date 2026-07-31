@@ -1,1 +1,16 @@
+body {
+	margin: 0px;
+	background-color: white;	
+}
 
+.headerh1 {
+	padding-top: 0.5px;
+	padding-bottom: 0.5px;
+	margin: 0px;
+	background-color: pink;
+}
+
+.headtitle {
+	text-align: center;
+	
+}

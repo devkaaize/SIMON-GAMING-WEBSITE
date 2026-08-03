@@ -1,1 +1,36 @@
+body {
+	margin: 0px;
+	background-color: white;	
+}
+
+.headerh1 {
+	padding-top: 0.5px;
+	padding-bottom: 0.5px;
+	background-color: pink;
+}
+
+.headtitle {
+	text-align: center;
+	
+}
+
+.head-container {
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	gap:10px; 
+}
+
+/* ITO YUNG MGA ICON */
+.icon-head {
+	margin-left:20px;
+	margin-right: 20px;
+	text-align: center;
+	border: solid black;
+}
+
+/* ITO YUNG SERACH HEAD */ 
+.search-head {
+	text-align: center;
+	border: solid red;
+}
 
